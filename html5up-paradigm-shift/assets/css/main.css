@@ -3879,3 +3879,9 @@ input, select, textarea {
 		}
 
 	}
+
+	.india-flag-image img { height: 100px; }
+	
+	.feature-icons i { padding: 20px; }
+	.feature-icons a { font-size: 25px; border: 0px solid black; padding: 10px; }
+	.feature-icons a:hover { color: #43d9b8; }
